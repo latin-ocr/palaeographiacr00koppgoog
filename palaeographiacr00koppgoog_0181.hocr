@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./palaeographiacr00koppgoog_0181.png"; bbox 0 0 4782 5918; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1743 3924 1991 4018">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1743 3924 1991 4018">
+     <span class='ocr_line' id='line_1_1' title="bbox 1743 3924 1991 4018; baseline 0.012 -4"><span class='ocrx_word' id='word_1_1' title='bbox 1743 3924 1991 4018; x_wconf 75' lang='lat' dir='ltr'><strong>Gubernat.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1602 4191 1984 4288">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1602 4191 1984 4288">
+     <span class='ocr_line' id='line_1_2' title="bbox 1602 4191 1984 4288; baseline 0.029 -10"><span class='ocrx_word' id='word_1_2' title='bbox 1602 4206 1610 4220; x_wconf 87' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_3' title='bbox 1741 4191 1984 4288; x_wconf 72' lang='lat' dir='ltr'><strong>Glibariuss</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1628 4316 1906 4378">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1628 4316 1906 4378">
+     <span class='ocr_line' id='line_1_3' title="bbox 1628 4316 1906 4378; baseline 0 -5"><span class='ocrx_word' id='word_1_4' title='bbox 1628 4316 1632 4323; x_wconf 81' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_5' title='bbox 1744 4322 1906 4378; x_wconf 74' lang='lat' dir='ltr'><strong>clibanarius.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 878 4449 2003 4633">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 878 4415 2003 4633">
+     <span class='ocr_line' id='line_1_4' title="bbox 878 4449 2003 4633; baseline 0.002 -81"><span class='ocrx_word' id='word_1_6' title='bbox 878 4455 1117 4552; x_wconf 52' lang='lat' dir='ltr'><strong>Gradivu&amp;</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1270 4475 1427 4633; x_wconf 56' lang='grc' dir='ltr'><em>Μ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1452 4478 1567 4566; x_wconf 66' lang='lat' dir='ltr'><strong>omn</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1581 4503 1638 4547; x_wconf 79' lang='lat' dir='ltr'><strong>um</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1702 4515 1728 4556; x_wconf 79' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1742 4449 2003 4554; x_wconf 69' lang='lat' dir='ltr'><strong>Gliba&#39;num.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1497 4589 1881 4658">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1497 4589 1881 4658">
+     <span class='ocr_line' id='line_1_5' title="bbox 1497 4589 1881 4658; baseline -0.003 -9"><span class='ocrx_word' id='word_1_12' title='bbox 1497 4589 1569 4658; x_wconf 75' lang='lat'><strong>193⁸</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1744 4592 1881 4649; x_wconf 74' lang='lat' dir='ltr'><strong>Clibanm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 2396 5908">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 2396 5908">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2396 5908; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2396 5908; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
